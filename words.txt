@@ -1,0 +1,6 @@
+mouse
+keybord
+monitor
+house
+roof
+floor
